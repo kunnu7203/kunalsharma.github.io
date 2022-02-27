@@ -1,0 +1,1 @@
+"# kunalsharma.github.io"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/kunnu7203/kunalsharma.github.io.gitgit push -u origin main
